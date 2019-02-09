@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutActivity">
+
+
+    <TextView
+        android:id="@+id/textabout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_about"
+        android:textSize="@dimen/treespace"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="bottom"
+        android:padding="@dimen/treespace">
+
+        <TextView
+            android:id="@+id/textabout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/treespace"
+
+            android:text="@string/txt_indus"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textabout3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/onespace"
+
+            android:text="@string/txt_dev"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textabout4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/onespace"
+
+            android:text="@string/txt_ver"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textabout5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/onespace"
+
+            android:text="@string/txt_email"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textabout6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/onespace"
+            android:text="@string/txt_phone"
+            android:textStyle="bold" />
+
+
+
+
+
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/textabout7"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom"
+        android:text="@string/txt_thank"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:orientation="vertical" />
+
+</android.support.constraint.ConstraintLayout>

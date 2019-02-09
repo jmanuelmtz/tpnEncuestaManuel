@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EncuestaTpn</string>
+    <string name="ic_action_about">About</string>
+
+    <string name="ic_action_settings">Configuration</string>
+
+    <string name="ic_action_exit">Exit</string>
+
+
+    <string name="input_user">User</string>
+
+    <string name="input_password">Password</string>
+
+    <string name="btn_login">Login</string>
+
+    <string name="btn_BeginPoll">BEGIN POLL</string>
+
+    <string name="txt_opinion">YOUR OPINION MATTERS TO US</string>
+
+
+    <string name="txt_introduction2">Please answer the next question about the service that you recibe</string>
+
+
+    <string name="txt_title">Satisfaction Survey </string>
+
+
+    <string name="txt_question1">1  How do you consider the treatment received?</string>
+
+
+    <string name="rb1_question1">Good </string>
+
+
+    <string name="rb2_question1">Regular </string>
+
+
+    <string name="rb3_question1">Bad </string>
+
+
+    <string name="txt_question2">2  Would recommend us with an acquaintance? </string>
+
+
+    <string name="rb1_question2">Yes </string>
+
+
+    <string name="rb2_question2">NO </string>
+
+
+    <string name="txt_question3">3  Do you want to add additional comments?</string>
+
+
+    <string name="txt1_pollend">¡THANK YOU!</string>
+
+
+    <string name="txt2_pollend">We will take your opinion </string>
+
+
+    <string name="btn_close">EXIT</string>
+
+    <string name="txt_about">About</string>
+
+
+    <string name="txt_indus">COMPANY</string>
+
+
+
+    <string name="txt_dev">DEVELOPER</string>
+
+
+    <string name="txt_ver">VERSION</string>
+
+
+
+    <string name="txt_email">E-MAIL</string>
+
+
+
+
+    <string name="txt_phone">TELEPHONE</string>
+
+
+
+    <string name="txt_thank">THANK YOU FOR USING OUR APPS!</string>
+
+</resources>

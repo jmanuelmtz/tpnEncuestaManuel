@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="app_name">EncuestaTpn</string>
+    <string name="ic_action_about">Acerca de</string>
+
+    <string name="ic_action_settings">Configuracion</string>
+
+    <string name="ic_action_exit">Salir</string>
+
+
+
+    <string name="input_user">Usuario</string>
+
+    <string name="input_password">Contraseña</string>
+
+    <string name="btn_login">Iniciar Sesion</string>
+
+    <string name="btn_BeginPoll">INICIAR ENCUESTA</string>
+
+
+    <string name="txt_opinion">Tu opinión nos importa</string>
+
+
+    <string name="txt_introduction2">Contesta las siguientes pregutas sobre el servicio recibido</string>
+
+
+    <string name="txt_title">Encuesta de Satiscacción</string>
+
+
+    <string name="txt_question1">1  ¿Cómo considera que fue el trato recibido?</string>
+
+
+    <string name="rb1_question1">Bueno </string>
+
+
+    <string name="rb2_question1">Regular </string>
+
+    <string name="rb3_question1">Malo </string>
+
+    <string name="txt_question2">2  ¿Nos recomendaría con un conocido? </string>
+
+
+    <string name="rb1_question2">SI </string>
+
+
+
+    <string name="rb2_question2">NO </string>
+
+
+
+    <string name="txt_question3">3  ¿Deseas agregar comentarios adicionales?</string>
+
+    <string name="txt1_pollend">¡GRACIAS!</string>
+
+
+    <string name="txt2_pollend">Tomaremos en cuenta tu opinión</string>
+
+
+
+    <string name="btn_close">CERRAR</string>
+
+
+    <string name="txt_about">Acerca de</string>
+
+
+    <string name="txt_indus">EMPRESA</string>
+
+
+    <string name="txt_dev">DESARROLLADOR</string>
+
+
+    <string name="txt_ver">VERSION</string>
+
+
+    <string name="txt_email">CORREO ELECTRONICO</string>
+
+
+
+    <string name="txt_phone">TELEFONO</string>
+
+
+    <string name="txt_thank">GRACIAS POR USAR NUESTRA APP!</string>
+
+
+
+
+
+
+</resources>
